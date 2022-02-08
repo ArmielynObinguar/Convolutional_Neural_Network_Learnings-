@@ -1,6 +1,7 @@
 # Convolutional_Neural_Network_Learnings-
 For Computational Physics Research  Group Tutorial 
 
+<table>
  </tr>
    </tr>
    <td>Convolutional Neural Network Resources</td>
